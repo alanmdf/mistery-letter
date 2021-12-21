@@ -1,4 +1,4 @@
-# Mistery Letter
+# Mistery Letter 📩👀
 
 # Contexto
 Esse site gera cartas misteriosas a partir do input de texto do usuário.
